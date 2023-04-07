@@ -40,8 +40,16 @@
 
 ```
 {
-  "Artist": {"S": "Iron Maiden"},
-  "SongTitle": {"S": "Chains of Misery"},
-  "AlbumTitle": {"S": "Fear of the Dark"},
-  "SongYear": {"S": "1992"}
+  "Artist": {"S": "Roberto Carlos"},
+  "SongTitle": {"S": "É Preciso Saber Viver"},
+  "AlbumTitle": {"S": "Acústico MTV: Roberto Carlos"},
+  "SongYear": {"S": "2001"}
+}
+
+```
+
+```
+{
+    ":artist":{"S":"Roberto Carlos"},
+    ":title":{"S":"Eu sou Terrível"}
 }
